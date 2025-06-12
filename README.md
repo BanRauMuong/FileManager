@@ -1,23 +1,23 @@
 # FileManager
 Đây là một chương trình quản lý file đơn giản!!
 
-### requirements
+### Requirements
 
-- **file manager dependencies**  
+**File Manager Dependencies**  
   cài đặt: `pip install -r requirements.txt`
 
-- **gui framework (nếu không dùng tkinter built-in)**  
+**Gui Framework**  
   `pyqt5==5.15.7`  
   `pyqt6==6.4.0`
 
-- **file operations**  
+**File Operations**  
   `pathlib2==2.3.7`
 
-- **search functionality**  
+**Search Functionality**  
   `whoosh==2.7.4`
 
-- **compression support**  
+**Compression Support**  
   `py7zr==0.20.2`
 
-- **configuration management**  
+**Configuration Management**  
   `configparser==5.3.0`
