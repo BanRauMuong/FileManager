@@ -3,21 +3,21 @@
 
 ### Requirements
 
--**File Manager Dependencies**  
+1. **File Manager Dependencies**  
   cài đặt: `pip install -r requirements.txt`
 
--**Gui Framework**  
+2. **Gui Framework**  
   `pyqt5==5.15.7`  
   `pyqt6==6.4.0`
 
--**File Operations**  
+3. **File Operations**  
   `pathlib2==2.3.7`
 
--**Search Functionality**  
+4. **Search Functionality**  
   `whoosh==2.7.4`
 
--**Compression Support**  
+5. **Compression Support**  
   `py7zr==0.20.2`
 
--**Configuration Management**  
+6. **Configuration Management**  
   `configparser==5.3.0`
